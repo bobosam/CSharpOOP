@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkInheritanceAndAbstraction\Problem03.CompanyHierarchy\bin\Debug\Problem03.CompanyHierarchy.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkInheritanceAndAbstraction\Problem03.CompanyHierarchy\obj\Debug\Problem03.CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkInheritanceAndAbstraction\Problem03.CompanyHierarchy\bin\Debug\Problem03.CompanyHierarchy.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkInheritanceAndAbstraction\Problem03.CompanyHierarchy\bin\Debug\Problem03.CompanyHierarchy.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkInheritanceAndAbstraction\Problem03.CompanyHierarchy\obj\Debug\Problem03.CompanyHierarchy.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkInheritanceAndAbstraction\Problem03.CompanyHierarchy\obj\Debug\Problem03.CompanyHierarchy.pdb

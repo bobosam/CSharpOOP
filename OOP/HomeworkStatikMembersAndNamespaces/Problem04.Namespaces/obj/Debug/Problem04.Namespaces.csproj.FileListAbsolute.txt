@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem04.Namespaces\bin\Debug\Problem04.Namespaces.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem04.Namespaces\obj\Debug\Problem04.Namespaces.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem04.Namespaces\bin\Debug\Problem04.Namespaces.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem04.Namespaces\bin\Debug\Problem04.Namespaces.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem04.Namespaces\obj\Debug\Problem04.Namespaces.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem04.Namespaces\obj\Debug\Problem04.Namespaces.pdb

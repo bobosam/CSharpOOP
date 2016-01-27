@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPExam.BlobAplication" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BlobAplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Core.Commands.AbstractCommand" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\AbstractCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPExam.Core.Commands.AttackComand" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\AttackComand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Core.Commands.CreateCommand" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAiAQAAAAAAAAAAAAEABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Core\Commands\CreateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Core.Commands.PassCommand" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\PassCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Core.Commands.StatusCommand" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\StatusCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Core.Database" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Core\Database.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPExam.Core.Engines.BlobEngine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAI=</HashCode>
+      <FileName>Core\Engines\BlobEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPExam.Core.Factories.AttackFactory" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Factories\AttackFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Core.Factories.BehaviorFactory" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Factories\BehaviorFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Core.Factories.BlobFactory" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Factories\BlobFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.IO.ConsoleReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\ConsoleReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPExam.IO.ConsoleWriter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>IO\ConsoleWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPExam.Models.AbstractAttack" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAABAAAAAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\AbstractAttack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPExam.Models.AbstractBehavior" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>Models\AbstractBehavior.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPExam.Models.AggressiveBehavior" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\AggressiveBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Models.Blob" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACACAAAAAAAAACAAAAAQAAIgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Blob.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPExam.Models.BlobplodeAttack" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\BlobplodeAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Models.InflatedBehavior" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\InflatedBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPExam.Models.PutridFartAttack" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\PutridFartAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOPExam.Interfaces.IAggressiveBehavior" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAggressiveBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IAttack" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAttack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IAttackDamage" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAttackDamage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IAttackHealth" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAttackHealth.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IAttaker" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAttaker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IBehavior" Collapsed="true">
+    <Position X="6.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IBlob" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAQAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IBlob.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IDatabase" Collapsed="true">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Interfaces\IDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IDestroyable" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IDestroyable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IEngine" Collapsed="true">
+    <Position X="16.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Interfaces\IEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IExecutable" Collapsed="true">
+    <Position X="18.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IExecutable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IInflatedBehavior" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Interfaces\IInflatedBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IInputReader" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IInputReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPExam.Interfaces.IOutputWrite" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Interfaces\IOutputWrite.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

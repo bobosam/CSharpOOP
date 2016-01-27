@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03_PCCatalog\bin\Debug\Problem03_PCCatalog.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03_PCCatalog\bin\Debug\Problem03_PCCatalog.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03_PCCatalog\bin\Debug\Problem03_PCCatalog.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03_PCCatalog\obj\Debug\Problem03_PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03_PCCatalog\obj\Debug\Problem03_PCCatalog.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem03_PCCatalog\obj\Debug\Problem03_PCCatalog.pdb

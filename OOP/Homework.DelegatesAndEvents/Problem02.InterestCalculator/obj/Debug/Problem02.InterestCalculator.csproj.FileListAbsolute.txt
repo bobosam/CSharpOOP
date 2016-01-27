@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem02.InterestCalculator\bin\Debug\Problem02.InterestCalculator.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem02.InterestCalculator\bin\Debug\Problem02.InterestCalculator.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem02.InterestCalculator\bin\Debug\Problem02.InterestCalculator.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem02.InterestCalculator\obj\Debug\Problem02.InterestCalculator.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem02.InterestCalculator\obj\Debug\Problem02.InterestCalculator.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem02.InterestCalculator\obj\Debug\Problem02.InterestCalculator.pdb

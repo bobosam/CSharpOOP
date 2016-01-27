@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem04.GenericList.Version\bin\Debug\Problem04.GenericList.Version.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem04.GenericList.Version\bin\Debug\Problem04.GenericList.Version.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem04.GenericList.Version\bin\Debug\Problem04.GenericList.Version.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem04.GenericList.Version\obj\Debug\Problem04.GenericList.Version.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem04.GenericList.Version\obj\Debug\Problem04.GenericList.Version.pdb

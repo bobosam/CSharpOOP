@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem01.Point3D\bin\Debug\Problem01.Point3D.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem01.Point3D\bin\Debug\Problem01.Point3D.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem01.Point3D\bin\Debug\Problem01.Point3D.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem01.Point3D\obj\Debug\Problem01.Point3D.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem01.Point3D\obj\Debug\Problem01.Point3D.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem01.Point3D\obj\Debug\Problem01.Point3D.pdb

@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseDefiningClasses\Problem01DefineAClassDog\bin\Debug\Problem01DefineAClassDog.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseDefiningClasses\Problem01DefineAClassDog\bin\Debug\Problem01DefineAClassDog.exe
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseDefiningClasses\Problem01DefineAClassDog\bin\Debug\Problem01DefineAClassDog.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseDefiningClasses\Problem01DefineAClassDog\obj\Debug\Problem01DefineAClassDog.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseDefiningClasses\Problem01DefineAClassDog\obj\Debug\Problem01DefineAClassDog.exe
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseDefiningClasses\Problem01DefineAClassDog\obj\Debug\Problem01DefineAClassDog.pdb

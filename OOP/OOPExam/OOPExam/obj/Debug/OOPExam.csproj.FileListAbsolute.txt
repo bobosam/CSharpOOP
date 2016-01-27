@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\OOPExam\OOPExam\bin\Debug\OOPExam.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\OOPExam\OOPExam\obj\Debug\OOPExam.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\OOPExam\OOPExam\bin\Debug\OOPExam.exe
+c:\users\bobo\documents\visual studio 2015\Projects\OOPExam\OOPExam\bin\Debug\OOPExam.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\OOPExam\OOPExam\obj\Debug\OOPExam.exe
+c:\users\bobo\documents\visual studio 2015\Projects\OOPExam\OOPExam\obj\Debug\OOPExam.pdb

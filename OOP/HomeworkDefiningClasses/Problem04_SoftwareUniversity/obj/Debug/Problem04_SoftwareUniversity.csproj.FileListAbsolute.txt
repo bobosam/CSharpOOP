@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem04_SoftwareUniversity\bin\Debug\Problem04_SoftwareUniversity.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem04_SoftwareUniversity\bin\Debug\Problem04_SoftwareUniversity.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem04_SoftwareUniversity\bin\Debug\Problem04_SoftwareUniversity.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem04_SoftwareUniversity\obj\Debug\Problem04_SoftwareUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem04_SoftwareUniversity\obj\Debug\Problem04_SoftwareUniversity.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem04_SoftwareUniversity\obj\Debug\Problem04_SoftwareUniversity.pdb

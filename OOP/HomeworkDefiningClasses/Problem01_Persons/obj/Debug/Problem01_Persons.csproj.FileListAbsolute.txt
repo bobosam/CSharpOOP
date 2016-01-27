@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem01_Persons\bin\Debug\Problem01_Persons.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem01_Persons\bin\Debug\Problem01_Persons.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem01_Persons\bin\Debug\Problem01_Persons.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem01_Persons\obj\Debug\Problem01_Persons.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem01_Persons\obj\Debug\Problem01_Persons.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkDefiningClasses\Problem01_Persons\obj\Debug\Problem01_Persons.pdb

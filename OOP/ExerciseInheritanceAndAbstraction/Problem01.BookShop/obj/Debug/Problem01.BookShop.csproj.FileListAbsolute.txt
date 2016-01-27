@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseInheritanceAndAbstraction\Problem01.BookShop\bin\Debug\Problem01.BookShop.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseInheritanceAndAbstraction\Problem01.BookShop\bin\Debug\Problem01.BookShop.exe
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseInheritanceAndAbstraction\Problem01.BookShop\bin\Debug\Problem01.BookShop.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseInheritanceAndAbstraction\Problem01.BookShop\obj\Debug\Problem01.BookShop.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseInheritanceAndAbstraction\Problem01.BookShop\obj\Debug\Problem01.BookShop.exe
+c:\users\bobo\documents\visual studio 2015\Projects\ExerciseInheritanceAndAbstraction\Problem01.BookShop\obj\Debug\Problem01.BookShop.pdb

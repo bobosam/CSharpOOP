@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem02.FractionCalculator\bin\Debug\Problem02.FractionCalculator.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem02.FractionCalculator\bin\Debug\Problem02.FractionCalculator.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem02.FractionCalculator\bin\Debug\Problem02.FractionCalculator.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem02.FractionCalculator\obj\Debug\Problem02.FractionCalculator.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem02.FractionCalculator\obj\Debug\Problem02.FractionCalculator.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem02.FractionCalculator\obj\Debug\Problem02.FractionCalculator.pdb

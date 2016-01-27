@@ -1,0 +1,9 @@
+C:\Users\Bobo\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\bin\Debug\Problem02.BankOfKurtovoKonare.exe.config
+C:\Users\Bobo\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\bin\Debug\Problem02.BankOfKurtovoKonare.exe
+C:\Users\Bobo\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\bin\Debug\Problem02.BankOfKurtovoKonare.pdb
+C:\Users\Bobo\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.exe
+C:\Users\Bobo\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\HomeworkEncapsulationAndPolymorphism\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\bin\Debug\Problem02.BankOfKurtovoKonare.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\HomeworkEncapsulationAndPolymorphism\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\HomeworkEncapsulationAndPolymorphism\TheSlum-Skeleton\Problem02.BankOfKurtovoKonare\obj\Debug\Problem02.BankOfKurtovoKonare.pdb

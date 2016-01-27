@@ -1,0 +1,8 @@
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\bin\Debug\Problem03.Paths.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\obj\Debug\Problem03.Paths.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\bin\Debug\Problem03.Paths.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\bin\Debug\Problem03.Paths.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\bin\Debug\Problem01.Point3D.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\bin\Debug\Problem01.Point3D.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\obj\Debug\Problem03.Paths.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem03.Paths\obj\Debug\Problem03.Paths.pdb

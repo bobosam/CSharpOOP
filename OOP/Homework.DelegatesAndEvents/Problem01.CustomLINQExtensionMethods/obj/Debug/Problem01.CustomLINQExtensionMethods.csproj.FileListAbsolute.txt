@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem01.CustomLINQExtensionMethods\bin\Debug\Problem01.CustomLINQExtensionMethods.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem01.CustomLINQExtensionMethods\bin\Debug\Problem01.CustomLINQExtensionMethods.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem01.CustomLINQExtensionMethods\bin\Debug\Problem01.CustomLINQExtensionMethods.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem01.CustomLINQExtensionMethods\obj\Debug\Problem01.CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem01.CustomLINQExtensionMethods\obj\Debug\Problem01.CustomLINQExtensionMethods.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem01.CustomLINQExtensionMethods\obj\Debug\Problem01.CustomLINQExtensionMethods.pdb

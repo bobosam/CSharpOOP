@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem04.StudentClass\bin\Debug\Problem04.StudentClass.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem04.StudentClass\obj\Debug\Problem04.StudentClass.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem04.StudentClass\bin\Debug\Problem04.StudentClass.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem04.StudentClass\bin\Debug\Problem04.StudentClass.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem04.StudentClass\obj\Debug\Problem04.StudentClass.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.DelegatesAndEvents\Problem04.StudentClass\obj\Debug\Problem04.StudentClass.pdb

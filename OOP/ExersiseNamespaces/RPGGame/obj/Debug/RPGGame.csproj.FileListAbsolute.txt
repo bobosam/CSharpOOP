@@ -1,0 +1,1 @@
+c:\users\bobo\documents\visual studio 2015\Projects\ExersiseNamespaces\RPGGame\bin\Debug\RPGGame.exe.config

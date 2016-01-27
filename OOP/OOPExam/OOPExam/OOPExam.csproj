@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA3DD8E6-5A11-4228-A14A-8243138F6F45}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OOPExam</RootNamespace>
+    <AssemblyName>OOPExam</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\Commands\AbstractCommand.cs" />
+    <Compile Include="Core\Commands\AttackComand.cs" />
+    <Compile Include="Core\Commands\CreateCommand.cs" />
+    <Compile Include="Core\Commands\PassCommand.cs" />
+    <Compile Include="Core\Commands\StatusCommand.cs" />
+    <Compile Include="Core\Database.cs" />
+    <Compile Include="Core\Engines\BlobEngine.cs" />
+    <Compile Include="Core\Factories\AttackFactory.cs" />
+    <Compile Include="Core\Factories\BehaviorFactory.cs" />
+    <Compile Include="Core\Factories\BlobFactory.cs" />
+    <Compile Include="Interfaces\IAggressiveBehavior.cs" />
+    <Compile Include="Interfaces\IAttack.cs" />
+    <Compile Include="Interfaces\IAttackDamage.cs" />
+    <Compile Include="Interfaces\IAttackHealth.cs" />
+    <Compile Include="Interfaces\IAttaker.cs" />
+    <Compile Include="Interfaces\IBehavior.cs" />
+    <Compile Include="Interfaces\IBlob.cs" />
+    <Compile Include="Interfaces\IDatabase.cs" />
+    <Compile Include="Interfaces\IDestroyable.cs" />
+    <Compile Include="Interfaces\IEngine.cs" />
+    <Compile Include="Interfaces\IInflatedBehavior.cs" />
+    <Compile Include="Interfaces\IInputReader.cs" />
+    <Compile Include="Interfaces\IOutputWrite.cs" />
+    <Compile Include="Interfaces\IExecutable.cs" />
+    <Compile Include="IO\ConsoleReader.cs" />
+    <Compile Include="IO\ConsoleWriter.cs" />
+    <Compile Include="Models\AbstractAttack.cs" />
+    <Compile Include="Models\AbstractBehavior.cs" />
+    <Compile Include="Models\AggressiveBehavior.cs" />
+    <Compile Include="Models\Blob.cs" />
+    <Compile Include="Models\BlobplodeAttack.cs" />
+    <Compile Include="Models\InflatedBehavior.cs" />
+    <Compile Include="Models\PutridFartAttack.cs" />
+    <Compile Include="BlobAplication.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

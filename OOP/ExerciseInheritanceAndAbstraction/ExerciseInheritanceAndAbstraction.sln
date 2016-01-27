@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01.BookShop", "Problem01.BookShop\Problem01.BookShop.csproj", "{1E185144-26D2-40B3-A970-BADEB4FA525D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02.WorkingWithAbstraction", "Problem02.WorkingWithAbstraction\Problem02.WorkingWithAbstraction.csproj", "{1F1DE47C-D830-4C32-A293-73D2C3353C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E185144-26D2-40B3-A970-BADEB4FA525D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E185144-26D2-40B3-A970-BADEB4FA525D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E185144-26D2-40B3-A970-BADEB4FA525D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E185144-26D2-40B3-A970-BADEB4FA525D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1DE47C-D830-4C32-A293-73D2C3353C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1DE47C-D830-4C32-A293-73D2C3353C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1DE47C-D830-4C32-A293-73D2C3353C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1DE47C-D830-4C32-A293-73D2C3353C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\bin\Debug\Problem03.GenericList.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\bin\Debug\Problem03.GenericList.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\bin\Debug\Problem03.GenericList.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\obj\Debug\Problem03.GenericList.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\obj\Debug\Problem03.GenericList.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\obj\Debug\Problem03.GenericList.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\bin\Debug\Problem04.GenericList.Version.exe
+c:\users\bobo\documents\visual studio 2015\Projects\Homework.OtherTypes\Problem03.GenericList\bin\Debug\Problem04.GenericList.Version.pdb

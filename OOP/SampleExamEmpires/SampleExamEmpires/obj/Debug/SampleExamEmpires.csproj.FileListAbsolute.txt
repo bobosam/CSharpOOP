@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\SampleExamEmpires\SampleExamEmpires\bin\Debug\SampleExamEmpires.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\SampleExamEmpires\SampleExamEmpires\bin\Debug\SampleExamEmpires.exe
+c:\users\bobo\documents\visual studio 2015\Projects\SampleExamEmpires\SampleExamEmpires\bin\Debug\SampleExamEmpires.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\SampleExamEmpires\SampleExamEmpires\obj\Debug\SampleExamEmpires.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\SampleExamEmpires\SampleExamEmpires\obj\Debug\SampleExamEmpires.exe
+c:\users\bobo\documents\visual studio 2015\Projects\SampleExamEmpires\SampleExamEmpires\obj\Debug\SampleExamEmpires.pdb

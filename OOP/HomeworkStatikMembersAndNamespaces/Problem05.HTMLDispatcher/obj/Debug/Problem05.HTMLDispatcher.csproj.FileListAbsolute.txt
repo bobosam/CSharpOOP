@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem05.HTMLDispatcher\bin\Debug\Problem05.HTMLDispatcher.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem05.HTMLDispatcher\bin\Debug\Problem05.HTMLDispatcher.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem05.HTMLDispatcher\bin\Debug\Problem05.HTMLDispatcher.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem05.HTMLDispatcher\obj\Debug\Problem05.HTMLDispatcher.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem05.HTMLDispatcher\obj\Debug\Problem05.HTMLDispatcher.exe
+c:\users\bobo\documents\visual studio 2015\Projects\HomeworkStatikMembersAndNamespaces\Problem05.HTMLDispatcher\obj\Debug\Problem05.HTMLDispatcher.pdb
